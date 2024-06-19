@@ -49,7 +49,7 @@ function HomePage() {
           animate="visible"
           className="homepage_left_description"
         >
-          Welcome to my portfolio! I'm Sanvi Ojha, a dedicated Data Science learner with expertise in Excel and R. This summer, I'm expanding my skill set by diving into the MERN stack (MongoDB, Express.js, React.js, Node.js). Explore my projects to see how I harness data and technology to create innovative solutions. My journey reflects a commitment to continuous learning and a passion for transforming data into actionable insights.
+          Welcome to my portfolio! I'm Harshita Bajpai.
         </motion.p>
 
         <motion.div
