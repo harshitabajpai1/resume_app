@@ -5,7 +5,7 @@ import css from "../assets/css.png";
 export const projectData = [
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
+      "https://codecanyon.img.customer.envatousercontent.com/files/336466337/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=354cc4464cf490acf8aeca28e8b861ab",
     title: "Ecomm Website",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
@@ -17,7 +17,7 @@ export const projectData = [
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
+      "https://codecanyon.img.customer.envatousercontent.com/files/336466337/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=354cc4464cf490acf8aeca28e8b861ab",
     title: "Ecomm Website",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
@@ -29,7 +29,7 @@ export const projectData = [
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
+      "https://codecanyon.img.customer.envatousercontent.com/files/336466337/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=354cc4464cf490acf8aeca28e8b861ab",
     title: "Ecomm Website",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
@@ -41,7 +41,7 @@ export const projectData = [
   },
   {
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1a9oACOtjODT2YXFIUmYqJq6ovhEd8VF7Fg&s",
+      "https://codecanyon.img.customer.envatousercontent.com/files/336466337/01_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=354cc4464cf490acf8aeca28e8b861ab",
     title: "Ecomm Website",
     sentences: [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi vitae fugiat, ad corporis cumque incidunt perferendis maxime minus excepturi sunt ab nobis illum laudantium minima possimus rerum distinctio ut quis.",
