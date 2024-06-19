@@ -31,7 +31,7 @@ function HomePage() {
           animate="visible"
           className="homepage_left_h2"
         >
-         SANVI OJHA
+         Harshita Bajpai
         </motion.p>
 
         <motion.p
